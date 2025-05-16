@@ -1,6 +1,6 @@
 name: zeebee
 description: "A flexible SDK for creating powerful AI chat experiences with multiple language models."
-version: 1.0.0
+version: 1.0.5
 homepage: https://github.com/Zeebee-AI/flutter-zeebee
 repository: https://github.com/Zeebee-AI/flutter-zeebee
 issue_tracker: https://github.com/Zeebee-AI/flutter-zeebee
