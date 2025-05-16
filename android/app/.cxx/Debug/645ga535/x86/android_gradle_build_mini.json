@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/nghiempt/Development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/nghiempt/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/nghiempt/Desktop/zeebee_ai_chat/android/app/.cxx/Debug/645ga535/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/nghiempt/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/nghiempt/Desktop/zeebee_ai_chat/android/app/.cxx/Debug/645ga535/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

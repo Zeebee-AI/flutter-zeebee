@@ -1,0 +1,53 @@
+name: zeebee
+description: "A flexible SDK for creating powerful AI chat experiences with multiple language models."
+version: 1.0.0
+homepage: https://github.com/Zeebee-AI/flutter-zeebee
+repository: https://github.com/Zeebee-AI/flutter-zeebee
+issue_tracker: https://github.com/Zeebee-AI/flutter-zeebee
+documentation: https://github.com/Zeebee-AI/flutter-zeebee
+
+topics:
+  - ai
+  - chat
+  - llm
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter 
+    
+  cupertino_icons: ^1.0.8
+  google_generative_ai: ^0.4.3
+  get: ^4.7.2
+  flutter_easyloading: ^3.0.5
+  sizer: ^3.0.4
+  dio: ^5.8.0+1
+  shared_preferences: ^2.5.3
+  google_fonts: ^6.2.1
+  flutter_ai_toolkit: ^0.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  fonts: 
+    - family: Pretendard
+      fonts: 
+        - asset: assets/fonts/Pretendard/Pretendard-Black.otf
+        - asset: assets/fonts/Pretendard/Pretendard-Bold.otf
+        - asset: assets/fonts/Pretendard/Pretendard-ExtraBold.otf
+        - asset: assets/fonts/Pretendard/Pretendard-ExtraLight.otf
+        - asset: assets/fonts/Pretendard/Pretendard-Light.otf
+        - asset: assets/fonts/Pretendard/Pretendard-Medium.otf
+        - asset: assets/fonts/Pretendard/Pretendard-Regular.otf
+        - asset: assets/fonts/Pretendard/Pretendard-SemiBold.otf
+        - asset: assets/fonts/Pretendard/Pretendard-Thin.otf
+  assets:
+    - assets/images/
+    - assets/svgs/

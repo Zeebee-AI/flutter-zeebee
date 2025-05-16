@@ -1,0 +1,2 @@
+/Users/nghiempt/Desktop/zeebee_ai_chat/android/app/.cxx/Debug/645ga535/x86/CMakeFiles/edit_cache.dir
+/Users/nghiempt/Desktop/zeebee_ai_chat/android/app/.cxx/Debug/645ga535/x86/CMakeFiles/rebuild_cache.dir

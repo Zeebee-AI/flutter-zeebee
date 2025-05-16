@@ -1,0 +1,2 @@
+/Users/nghiempt/Working/IVITA/zeebee/zeebee-pub/android/app/.cxx/Debug/6ab5a2d3/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/nghiempt/Working/IVITA/zeebee/zeebee-pub/android/app/.cxx/Debug/6ab5a2d3/armeabi-v7a/CMakeFiles/rebuild_cache.dir
